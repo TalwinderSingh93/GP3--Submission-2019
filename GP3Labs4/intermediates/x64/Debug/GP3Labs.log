@@ -1,0 +1,132 @@
+﻿  Application.cpp
+  BoxShape.cpp
+  Camera.cpp
+  CameraComp.cpp
+  CapsuleShape.cpp
+  CollisionShape.cpp
+  ConeShape.cpp
+  CylinderShape.cpp
+  DirectionalLight.cpp
+  Entity.cpp
+  GP3Labs.cpp
+  Input.cpp
+C:\Users\copromec\source\repos\GP3Labs4\GP3Labs\Input.cpp(61,43): warning C4805: '==': combinazione non affidabile dei tipi '_Ty' e 'bool' nell'operazione
+C:\Users\copromec\source\repos\GP3Labs4\GP3Labs\Input.cpp(61,43): warning C4805:         with
+C:\Users\copromec\source\repos\GP3Labs4\GP3Labs\Input.cpp(61,43): warning C4805:         [
+C:\Users\copromec\source\repos\GP3Labs4\GP3Labs\Input.cpp(61,43): warning C4805:             _Ty=char
+C:\Users\copromec\source\repos\GP3Labs4\GP3Labs\Input.cpp(61,43): warning C4805:         ]
+  Log.cpp
+  Mesh.cpp
+  MeshRenderer.cpp
+  Model.cpp
+  Physics.cpp
+C:\Users\copromec\source\repos\GP3Labs4\GP3Labs\Input.cpp(85,43): warning C4805: '==': combinazione non affidabile dei tipi '_Ty' e 'bool' nell'operazione
+C:\Users\copromec\source\repos\GP3Labs4\GP3Labs\Input.cpp(85,43): warning C4805:         with
+C:\Users\copromec\source\repos\GP3Labs4\GP3Labs\Input.cpp(85,43): warning C4805:         [
+C:\Users\copromec\source\repos\GP3Labs4\GP3Labs\Input.cpp(85,43): warning C4805:             _Ty=char
+C:\Users\copromec\source\repos\GP3Labs4\GP3Labs\Input.cpp(85,43): warning C4805:         ]
+  Resources.cpp
+  RigidBody.cpp
+  Shader.cpp
+  Generazione del codice in corso...
+  Compilazione in corso...
+  ShaderProgram.cpp
+  SphereShape.cpp
+  Texture.cpp
+  Transform.cpp
+  Generazione del codice in corso...
+C:\Users\copromec\source\repos\GP3Labs4\GP3Labs\Physics.cpp(11,42): warning C4305: 'argomento': troncamento da 'double' a 'const btScalar'
+BulletCollision_Debug.lib(btCollisionAlgorithm.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btCollisionAlgorithm.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btDbvt.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btDbvt.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btDbvtBroadphase.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btDbvtBroadphase.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btDispatcher.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btDispatcher.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btOverlappingPairCache.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btOverlappingPairCache.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btQuantizedBvh.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btQuantizedBvh.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btActivatingCollisionAlgorithm.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btActivatingCollisionAlgorithm.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btBoxBoxCollisionAlgorithm.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btBoxBoxCollisionAlgorithm.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btBoxBoxDetector.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btBoxBoxDetector.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btCollisionDispatcher.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btCollisionDispatcher.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btCollisionObject.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btCollisionObject.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btCollisionWorld.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btCollisionWorld.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btCompoundCollisionAlgorithm.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btCompoundCollisionAlgorithm.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btCompoundCompoundCollisionAlgorithm.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btCompoundCompoundCollisionAlgorithm.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btConvexConcaveCollisionAlgorithm.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btConvexConcaveCollisionAlgorithm.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btConvexConvexAlgorithm.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btConvexConvexAlgorithm.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btConvexPlaneCollisionAlgorithm.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btConvexPlaneCollisionAlgorithm.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btDefaultCollisionConfiguration.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btDefaultCollisionConfiguration.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btEmptyCollisionAlgorithm.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btEmptyCollisionAlgorithm.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btHashedSimplePairCache.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btHashedSimplePairCache.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btManifoldResult.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btManifoldResult.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btSimulationIslandManager.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btSimulationIslandManager.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btSphereSphereCollisionAlgorithm.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btSphereSphereCollisionAlgorithm.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btSphereTriangleCollisionAlgorithm.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btSphereTriangleCollisionAlgorithm.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btUnionFind.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btUnionFind.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(SphereTriangleDetector.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(SphereTriangleDetector.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btBoxShape.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btBoxShape.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btBvhTriangleMeshShape.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btBvhTriangleMeshShape.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btCapsuleShape.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btCapsuleShape.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btCollisionShape.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btCollisionShape.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btConcaveShape.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btConcaveShape.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btConeShape.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btConeShape.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btConvexInternalShape.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btConvexInternalShape.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btConvexPolyhedron.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btConvexPolyhedron.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btConvexShape.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btConvexShape.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btCylinderShape.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btCylinderShape.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btMiniSDF.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btMiniSDF.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btOptimizedBvh.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btOptimizedBvh.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btPolyhedralConvexShape.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btPolyhedralConvexShape.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btSdfCollisionShape.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btSdfCollisionShape.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btSphereShape.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btSphereShape.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btTriangleCallback.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btTriangleCallback.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btTriangleMeshShape.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btTriangleMeshShape.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btContinuousConvexCollision.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btContinuousConvexCollision.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btConvexCast.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btConvexCast.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btGjkConvexCast.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btGjkConvexCast.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btGjkEpa2.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btGjkEpa2.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btGjkEpaPenetrationDepthSolver.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btGjkEpaPenetrationDepthSolver.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btGjkPairDetector.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btGjkPairDetector.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btMinkowskiPenetrationDepthSolver.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btMinkowskiPenetrationDepthSolver.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btPersistentManifold.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btPersistentManifold.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btRaycastCallback.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btRaycastCallback.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btSubSimplexConvexCast.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btSubSimplexConvexCast.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btVoronoiSimplexSolver.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btVoronoiSimplexSolver.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletCollision_Debug.lib(btPolyhedralContactClipping.obj) : warning LNK4099: impossibile trovare il PDB 'BulletCollision.pdb' con 'BulletCollision_Debug.lib(btPolyhedralContactClipping.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletCollision.pdb'; oggetto collegato senza informazioni di debug
+BulletDynamics_Debug.lib(btConeTwistConstraint.obj) : warning LNK4099: impossibile trovare il PDB 'BulletDynamics.pdb' con 'BulletDynamics_Debug.lib(btConeTwistConstraint.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletDynamics.pdb'; oggetto collegato senza informazioni di debug
+BulletDynamics_Debug.lib(btGeneric6DofConstraint.obj) : warning LNK4099: impossibile trovare il PDB 'BulletDynamics.pdb' con 'BulletDynamics_Debug.lib(btGeneric6DofConstraint.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletDynamics.pdb'; oggetto collegato senza informazioni di debug
+BulletDynamics_Debug.lib(btSequentialImpulseConstraintSolver.obj) : warning LNK4099: impossibile trovare il PDB 'BulletDynamics.pdb' con 'BulletDynamics_Debug.lib(btSequentialImpulseConstraintSolver.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletDynamics.pdb'; oggetto collegato senza informazioni di debug
+BulletDynamics_Debug.lib(btTypedConstraint.obj) : warning LNK4099: impossibile trovare il PDB 'BulletDynamics.pdb' con 'BulletDynamics_Debug.lib(btTypedConstraint.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletDynamics.pdb'; oggetto collegato senza informazioni di debug
+BulletDynamics_Debug.lib(btDiscreteDynamicsWorld.obj) : warning LNK4099: impossibile trovare il PDB 'BulletDynamics.pdb' con 'BulletDynamics_Debug.lib(btDiscreteDynamicsWorld.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletDynamics.pdb'; oggetto collegato senza informazioni di debug
+BulletDynamics_Debug.lib(btRigidBody.obj) : warning LNK4099: impossibile trovare il PDB 'BulletDynamics.pdb' con 'BulletDynamics_Debug.lib(btRigidBody.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\BulletDynamics.pdb'; oggetto collegato senza informazioni di debug
+LinearMath_Debug.lib(btAlignedAllocator.obj) : warning LNK4099: impossibile trovare il PDB 'LinearMath.pdb' con 'LinearMath_Debug.lib(btAlignedAllocator.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\LinearMath.pdb'; oggetto collegato senza informazioni di debug
+LinearMath_Debug.lib(btConvexHullComputer.obj) : warning LNK4099: impossibile trovare il PDB 'LinearMath.pdb' con 'LinearMath_Debug.lib(btConvexHullComputer.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\LinearMath.pdb'; oggetto collegato senza informazioni di debug
+LinearMath_Debug.lib(btGeometryUtil.obj) : warning LNK4099: impossibile trovare il PDB 'LinearMath.pdb' con 'LinearMath_Debug.lib(btGeometryUtil.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\LinearMath.pdb'; oggetto collegato senza informazioni di debug
+LinearMath_Debug.lib(btQuickprof.obj) : warning LNK4099: impossibile trovare il PDB 'LinearMath.pdb' con 'LinearMath_Debug.lib(btQuickprof.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\LinearMath.pdb'; oggetto collegato senza informazioni di debug
+LinearMath_Debug.lib(btVector3.obj) : warning LNK4099: impossibile trovare il PDB 'LinearMath.pdb' con 'LinearMath_Debug.lib(btVector3.obj)' o in 'C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\LinearMath.pdb'; oggetto collegato senza informazioni di debug
+  GP3Labs.vcxproj -> C:\Users\copromec\source\repos\GP3Labs4\bin\x64\Debug\GP3Labs_x64.exe
+  C:\Users\copromec\source\repos\GP3Labs4\dependencies\dll\assimp.dll
+  C:\Users\copromec\source\repos\GP3Labs4\dependencies\dll\glew32.dll
+  C:\Users\copromec\source\repos\GP3Labs4\dependencies\dll\SDL2.dll
+  3 File copiati
+  C:\Users\copromec\source\repos\GP3Labs4\assets\BlinnPhong.frag
+  C:\Users\copromec\source\repos\GP3Labs4\assets\BlinnPhong.vert
+  C:\Users\copromec\source\repos\GP3Labs4\assets\BlinnPhong_FRAG.glsl
+  C:\Users\copromec\source\repos\GP3Labs4\assets\BlinnPhong_VERT.glsl
+  C:\Users\copromec\source\repos\GP3Labs4\assets\Blinn_FRAG.glsl
+  C:\Users\copromec\source\repos\GP3Labs4\assets\Blinn_VERT.glsl
+  C:\Users\copromec\source\repos\GP3Labs4\assets\cone.obj
+  C:\Users\copromec\source\repos\GP3Labs4\assets\coneTexture.jpg
+  C:\Users\copromec\source\repos\GP3Labs4\assets\cube.obj
+  C:\Users\copromec\source\repos\GP3Labs4\assets\floorTex.jpg
+  C:\Users\copromec\source\repos\GP3Labs4\assets\monkey.obj
+  C:\Users\copromec\source\repos\GP3Labs4\assets\monkeyTex.jpg
+  C:\Users\copromec\source\repos\GP3Labs4\assets\NormalMap_FRAG.glsl
+  C:\Users\copromec\source\repos\GP3Labs4\assets\NormalMap_VERT.glsl
+  C:\Users\copromec\source\repos\GP3Labs4\assets\pokemon.jpg
+  C:\Users\copromec\source\repos\GP3Labs4\assets\simple_FRAG.glsl
+  C:\Users\copromec\source\repos\GP3Labs4\assets\simple_VERT.glsl
+  C:\Users\copromec\source\repos\GP3Labs4\assets\sphere.OBJ
+  C:\Users\copromec\source\repos\GP3Labs4\assets\sphereTexture.jpg
+  C:\Users\copromec\source\repos\GP3Labs4\assets\umbreon.obj
+  C:\Users\copromec\source\repos\GP3Labs4\assets\umbreonTex.jpg
+  C:\Users\copromec\source\repos\GP3Labs4\assets\Wood.jpg
+  22 File copiati
